@@ -1,0 +1,39 @@
+C:\Users\HP\source\repos\Game Project\Game Project\bin\Debug\Game Project.exe.config
+C:\Users\HP\source\repos\Game Project\Game Project\bin\Debug\Game Project.exe
+C:\Users\HP\source\repos\Game Project\Game Project\bin\Debug\Game Project.pdb
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game Project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game_Project.Form1.resources
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game_Project.Properties.Resources.resources
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game Project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game Project.exe
+C:\Users\HP\source\repos\Game Project\Game Project\obj\Debug\Game Project.pdb
+C:\Users\HP\Desktop\Game Project\Game Project\bin\Debug\Game Project.exe.config
+C:\Users\HP\Desktop\Game Project\Game Project\bin\Debug\Game Project.exe
+C:\Users\HP\Desktop\Game Project\Game Project\bin\Debug\Game Project.pdb
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form1.resources
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form2.resources
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Properties.Resources.resources
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game Project.exe
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game Project.pdb
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form3.resources
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form4.resources
+C:\Users\HP\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form5.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\bin\Debug\Game Project.exe.config
+C:\Users\THABANI\Desktop\Game Project\Game Project\bin\Debug\Game Project.exe
+C:\Users\THABANI\Desktop\Game Project\Game Project\bin\Debug\Game Project.pdb
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game Project.csprojAssemblyReference.cache
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form1.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form2.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form3.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form4.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Form5.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game_Project.Properties.Resources.resources
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game Project.csproj.GenerateResource.cache
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game Project.exe
+C:\Users\THABANI\Desktop\Game Project\Game Project\obj\Debug\Game Project.pdb
